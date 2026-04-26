@@ -1,1 +1,1 @@
-# Chat-RemotSensing
+# Chat-RemoteSensing
